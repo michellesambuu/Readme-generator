@@ -28,7 +28,7 @@ const questions = [
     },
     {
         type:"list",
-        name:"licence",
+        name:"license",
     message:"which license is your project under",
     choices:["MIT", "ISC", "GNU", "APACHE2.0","None"]
     },
